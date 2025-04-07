@@ -53,4 +53,4 @@ Below are some screenshots from my VPN demonstration, showing the changes in reg
 
 ---
 
-This project demonstrates how VPNs can change the way we interact with digital content, bypassing restrictions and providing a safer, more flexible internet browsing experience.
+This project demonstrates how VPNs can change the way we interact with digital content, bypassing restrictions and providing a safer, more flexible internet browsing experience. The 48.217.85.145 is an anerican IP address, You can see how Youtube is showing engilsh titles, and content that are trending in American Youtube, as well as seeing Netflix on the American IP. With the Russian IP 45.134.12.131, you can see the text change, what's trending on Youtube in Russian, and Netlflix not allowing it's services on any Russian IP. Different IP means different content being presented through the internet, and in return making it harder for trackers to keep up with the changing IP.
